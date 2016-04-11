@@ -21,7 +21,7 @@ Sur base du psd d'un design web, vous allez réaliser la découpe et l'intégrat
 
 Le design de base, réalisé par [Peter Finlan](http://peterfinlan.com), est [disponible gratuitement sur dribbble](https://dribbble.com/shots/1314681-Freebie-PSD-Perth-A-Free-Flat-Web-Design).
 
-Le rendu final désiré est le suivant : ![rendu final](./rendu.png)
+Le rendu final désiré est le suivant : ![rendu final](./rendu.jpg)
 
 ### Consignes
 
